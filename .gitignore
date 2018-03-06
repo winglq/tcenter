@@ -1,0 +1,5 @@
+regsvr
+*.swp
+*.bak
+node_modules/
+lfrd
