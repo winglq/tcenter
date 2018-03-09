@@ -1,5 +1,27 @@
-#ccl {
-        width:900px;
-        margin-left: auto;
-        margin-right: auto
+body {
+}
+.app {
+        background-image: url(/static/img/background/2.jpg);
+}
+
+.border-visible {
+        border-color:grey;
+        border-style: solid;
+}
+
+.navbar-default{
+        background:transparent;
+        background-image:none;
+        border-color:transparent;
+        box-shadow:none;
+}
+
+.nav-item {
+        margin: 8px 0px 0px 0px;
+}
+
+.nav-brand {
+        margin: 8px 0px 0px 0px;
+        padding: 5px;
+}
 }

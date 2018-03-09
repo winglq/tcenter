@@ -4,7 +4,7 @@ module.exports = {
     entry: './common/main.js',
     output: {
         path: output_dir,
-        filename: 'common.js'
+        filename: 'bundle.js'
     },
     module: {
         rules: [

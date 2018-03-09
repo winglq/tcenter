@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { Carousel } from 'react-bootstrap';
 
 class ControlledCarousel extends React.Component {
@@ -34,8 +33,8 @@ class ControlledCarousel extends React.Component {
         <Carousel.Item>
           <img width={900} height={500} alt="900x500" src="/static/img/carousel.png" />
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h3>欢迎来到小伙伴</h3>
+            <p>带领小朋友畅游编程乐园</p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
